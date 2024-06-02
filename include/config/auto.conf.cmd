@@ -1597,7 +1597,7 @@ ifneq "$(srctree)" "."
 $(autoconfig): FORCE
 endif
 
-ifneq "$(CC_VERSION_TEXT)" "gcc (GCC) 14.1.1 20240507 (Red Hat 14.1.1-1)"
+ifneq "$(CC_VERSION_TEXT)" "gcc (Ubuntu 13.2.0-23ubuntu4) 13.2.0"
 $(autoconfig): FORCE
 endif
 

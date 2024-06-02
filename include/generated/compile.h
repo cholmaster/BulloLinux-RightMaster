@@ -1,4 +1,4 @@
 #define UTS_MACHINE		"x86_64"
 #define LINUX_COMPILE_BY	"root"
-#define LINUX_COMPILE_HOST	"fedora"
-#define LINUX_COMPILER		"gcc (GCC) 14.1.1 20240507 (Red Hat 14.1.1-1), GNU ld version 2.41-37.fc40"
+#define LINUX_COMPILE_HOST	"yjlee-16ZD90Q-GX36K"
+#define LINUX_COMPILER		"gcc (Ubuntu 13.2.0-23ubuntu4) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.42"
