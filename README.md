@@ -16,3 +16,10 @@ several of them using the reStructuredText markup notation.
 Please read the Documentation/process/changes.rst file, as it contains the
 requirements for building and running the kernel, and information about
 the problems which may result by upgrading your kernel.
+
+BulloLinux for LG Gram Series: Low-powered and High Performance Version of Linux
+
+This provides timestamp based sortable buffer. Be sure to check drivers/timebuffer to learn more.
+Also, this kernel contains many security issue hotfix. You would be appreciated if you give me pull request.
+
+All rights reversed :P
