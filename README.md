@@ -23,3 +23,8 @@ This provides timestamp based sortable buffer. Be sure to check drivers/timebuff
 Also, this kernel contains many security issue hotfix. You would be appreciated if you give me pull request.
 
 All rights reversed :P
+
+-Example Setup for RPL(RFC6550):
+   tunneling device > timebuffer > sanitize(via IOCTL) > rpl > timebuffer(reforward)
+
+Circular Import within depth. For security Reason.
